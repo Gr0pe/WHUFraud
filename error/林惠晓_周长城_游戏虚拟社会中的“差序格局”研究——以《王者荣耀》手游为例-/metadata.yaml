@@ -13,8 +13,6 @@ whu_authors:            # 至少一人
   - 林惠晓 (School of Journalism and Communication, Wuhan University)
 affiliation_proof:      # 例如 PDF 第1页截图或出版社元数据链接
   - evidence/affil_screenshot.png
-  - evidence/write.pdf
-  - evidence/reasons.pdf
-  - evidence/expamle.pdf
+  - evidence/reasons.doc
 misconduct_type: 
   -fabrication     # 选项：plagiarism / fabrication / image_manipulation / duplicate_publication / authorship / other
